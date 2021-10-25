@@ -1,0 +1,5 @@
+C:\Users\matt\Documents\PercentCalculator.exe
+C:\Users\matt\Documents\PercentCalculator.dll
+C:\Users\matt\Documents\PercentCalculator.deps.json
+C:\Users\matt\Documents\PercentCalculator.runtimeconfig.json
+C:\Users\matt\Documents\PercentCalculator.pdb

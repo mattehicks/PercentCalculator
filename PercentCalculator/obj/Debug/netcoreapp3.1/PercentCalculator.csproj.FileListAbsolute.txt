@@ -1,0 +1,15 @@
+C:\Users\matt\source\repos\PercentCalculator\bin\Debug\netcoreapp3.1\PercentCalculator.exe
+C:\Users\matt\source\repos\PercentCalculator\bin\Debug\netcoreapp3.1\PercentCalculator.deps.json
+C:\Users\matt\source\repos\PercentCalculator\bin\Debug\netcoreapp3.1\PercentCalculator.runtimeconfig.json
+C:\Users\matt\source\repos\PercentCalculator\bin\Debug\netcoreapp3.1\PercentCalculator.runtimeconfig.dev.json
+C:\Users\matt\source\repos\PercentCalculator\bin\Debug\netcoreapp3.1\PercentCalculator.dll
+C:\Users\matt\source\repos\PercentCalculator\bin\Debug\netcoreapp3.1\PercentCalculator.pdb
+C:\Users\matt\source\repos\PercentCalculator\obj\Debug\netcoreapp3.1\PercentCalculator.csproj.AssemblyReference.cache
+C:\Users\matt\source\repos\PercentCalculator\obj\Debug\netcoreapp3.1\PercentCalculator.Form1.resources
+C:\Users\matt\source\repos\PercentCalculator\obj\Debug\netcoreapp3.1\PercentCalculator.csproj.GenerateResource.cache
+C:\Users\matt\source\repos\PercentCalculator\obj\Debug\netcoreapp3.1\PercentCalculator.AssemblyInfoInputs.cache
+C:\Users\matt\source\repos\PercentCalculator\obj\Debug\netcoreapp3.1\PercentCalculator.AssemblyInfo.cs
+C:\Users\matt\source\repos\PercentCalculator\obj\Debug\netcoreapp3.1\PercentCalculator.csproj.CoreCompileInputs.cache
+C:\Users\matt\source\repos\PercentCalculator\obj\Debug\netcoreapp3.1\PercentCalculator.dll
+C:\Users\matt\source\repos\PercentCalculator\obj\Debug\netcoreapp3.1\PercentCalculator.pdb
+C:\Users\matt\source\repos\PercentCalculator\obj\Debug\netcoreapp3.1\PercentCalculator.genruntimeconfig.cache
